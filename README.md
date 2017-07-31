@@ -1,2 +1,2 @@
 # brickjs
-simple testing brick.js
+simple testing brick.js (source: http://callmecavs.com/bricks.js/)
