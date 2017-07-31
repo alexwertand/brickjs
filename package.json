@@ -1,0 +1,27 @@
+{
+  "name": "brickjs",
+  "version": "1.0.0",
+  "description": "simple testing brick.js (source: http://callmecavs.com/bricks.js/)",
+  "main": "index.js",
+  "dependencies": {
+    "bricks.js": "^1.8.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwertand/brickjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexwertand/brickjs/issues"
+  },
+  "homepage": "https://github.com/alexwertand/brickjs#readme"
+}
